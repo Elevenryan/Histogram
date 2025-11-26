@@ -1,4 +1,5 @@
 numpy
-matplotlib.pyplot
+matplotlib>=3.7.0
 pandas
+Script
 streamlit
